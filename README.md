@@ -27,16 +27,18 @@ I'm a data scientist with a passion for exploring and analyzing data to uncover 
 - SQL and relational databases 💾
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn) 🐍📈
 
+
 ## 📚 Education
 - Master of Science in Data Science(Healthcare concentration), DePaul University
 - Bachelor of Engineering in Mechatronics, Yangon Technological University(Insein)
-
-## 💻 Projects
-- Check out some of my data science projects on my GitHub page!
 
 ## 📫 Contact
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kyi-moe-tun-920674131/)
 .
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyiMoeTun&theme=tokyonight)
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KyiMoeTun.KyiMoeTun)
+
+[![Github](https://img.shields.io/github/followers/KyiMoeTun?label=Follow&style=social)](https://github.com/KyiMoeTun)
