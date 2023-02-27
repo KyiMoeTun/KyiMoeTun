@@ -28,10 +28,6 @@ I'm a data scientist with a passion for exploring and analyzing data to uncover 
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn) 🐍📈
 
 
-## 📚 Education
-- Master of Science in Data Science(Healthcare concentration), DePaul University
-- Bachelor of Engineering in Mechatronics, Yangon Technological University(Insein)
-
 ## 📫 Contact
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kyi-moe-tun-920674131/)
 
