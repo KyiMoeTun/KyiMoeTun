@@ -34,9 +34,11 @@ I'm a data scientist with a passion for exploring and analyzing data to uncover 
 
 ## 📫 Contact
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kyi-moe-tun-920674131/)
-.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyiMoeTun&theme=tokyonight)
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyiMoeTun&layout=compact&theme=tokyonight" alt="Top Langs">
+</div>
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KyiMoeTun.KyiMoeTun)
